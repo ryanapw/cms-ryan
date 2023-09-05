@@ -160,7 +160,6 @@
                         </div>
                         <?php $no++; } ?>
                     </div>
-                    
                     <button
                         class="carousel-control-prev"
                         type="button"
